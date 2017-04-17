@@ -69,6 +69,16 @@ Figura 09. Tela principal.
 <p>Ao aperta o botão de Menu entrará nas configurações de parâmetros.</p>
 <p>Os botões UP e DOW são para navegação do MENU. As três telas estão disponíveis assim que perscionado o botão MENU conforme as figuras de 10 a 13.</p>
 
-https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Primeira_tela.png
-https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Segunda_Tela.png
-https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Terceira_Tela.png
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Primeira_tela.png">
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Segunda_Tela.png">
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Terceira_Tela.png">
+Figuras de 10 a 13. Apresentações de tela de Menu.
+
+<p>Na primeira tela entrará para a configuração de controle de gás como mostra na figura 14.</p>
+
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Parametros_gas.png">
+Figura 14. Tela de controle de gás.
+
+<p>Nesta Tela é apresentado o limite da concetração de gás no interior da câmara. Logo abaixo é mostrado a configuraração para o controle de histerese para a concentração do gás como explicado no link: <a>https://en.wikipedia.org/wiki/Hysteresis</a>
+Logo abaixo é mostrada a opção de Habilitar a solenóide para se torna ativa(SIM). Para desativar a solenoide seixará e (NAO).</p>
+
