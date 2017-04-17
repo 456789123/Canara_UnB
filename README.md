@@ -80,5 +80,15 @@ Figuras de 10 a 13. Apresentações de tela de Menu.
 Figura 14. Tela de controle de gás.
 
 <p>Nesta Tela é apresentado o limite da concetração de gás no interior da câmara. Logo abaixo é mostrado a configuraração para o controle de histerese para a concentração do gás como explicado no link: <a>https://en.wikipedia.org/wiki/Hysteresis</a>
-Logo abaixo é mostrada a opção de Habilitar a solenóide para se torna ativa(SIM). Para desativar a solenoide seixará e (NAO).</p>
+Logo abaixo é mostrada a opção de Habilitar a solenóide para se torna ativa(SIM). Para desativar a solenoide seixará em (NAO).</p>
 
+<p>Na segunda tela Controle de Umidade, estará disponivel o controle automatico de umidade que é parecido com o controle de gás. Figura 15</p>
+<h5>Por enquanto este controle não está atuando com propositos de funcionar no futuro.</h5>
+
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Parametros_umidade.png">
+Figura 15. Tela de controle de umidade.
+
+<p>Na terceira tela irá mostrar as opções de testes para os controles para verificação dos circuitos de alta tensão. Poderá testar a selenoide de gás, controle de umidade e controle da bomba de vácuo para verificar se as mesmas estão funcionando perfeitamente. Figura 16</p>
+
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Testes.png">
+Figura 16. Tela de controle de testes.
