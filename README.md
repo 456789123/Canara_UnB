@@ -20,7 +20,7 @@ Figura 01: Sensor de avaliação de concentração de CO2.
 
 <p>Para mensuração de Humidade e temperatura, fora usado o sensor DHT11 mostrado na figura 2.</p>
 
-<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/DHT11.jpg" alt="COZIR Wide Range 5-100% CO2 Sensor">
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/DHT11.jpg" alt="DHT11">
 
 Figura 02: Sensor DHT11.
 
@@ -28,3 +28,4 @@ Figura 02: Sensor DHT11.
 <p>O elemento sensor de temperatura é um termistor do tipo NTC e o sensor de Umidade é do tipo HR202, o circuito interno faz a leitura dos sensores e se comunica a um microcontrolador através de um sinal serial de uma via.</p>
 
 <p>Para o controle de todo o protótipo fora usado a plataforma Arduino Uno conforme a figura 03:</p>
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Arduino_Uno.jpg" alt="Arduino Uno">
