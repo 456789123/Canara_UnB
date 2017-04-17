@@ -63,7 +63,12 @@ Figuras 08. Esquemário do circuito de controle.
 
 <p>Aqui é mostrada a tela principal que mostra a concentração de Gás, temperatura e umidade no interior da câmara. Figura 09</p>
 
-
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Tela_principal.png" alt="Tela principal">
 Figura 09. Tela principal.
+
 <p>Ao aperta o botão de Menu entrará nas configurações de parâmetros.</p>
 <p>Os botões UP e DOW são para navegação do MENU. As três telas estão disponíveis assim que perscionado o botão MENU conforme as figuras de 10 a 13.</p>
+
+https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Primeira_tela.png
+https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Segunda_Tela.png
+https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Terceira_Tela.png
