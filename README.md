@@ -22,4 +22,4 @@ Figura 01: Sensor de avaliação de concentração de CO2.
 
 <img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/DHT11.jpg" alt="COZIR Wide Range 5-100% CO2 Sensor">
 
-Figura 02: O elemento sensor de temperatura é um termistor do tipo NTC e o sensor de Umidade é do tipo HR202.
+Figura 02: Sensor DHT11.
