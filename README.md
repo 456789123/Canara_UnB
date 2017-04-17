@@ -80,7 +80,7 @@ Figuras de 10 a 13. Apresentações de tela de Menu.
 Figura 14. Tela de controle de gás.
 
 <p>Nesta Tela é apresentado o limite da concetração de gás no interior da câmara. Logo abaixo é mostrado a configuraração para o controle de histerese para a concentração do gás como explicado no link: <a>https://en.wikipedia.org/wiki/Hysteresis</a>
-Logo abaixo é mostrada a opção de Habilitar a solenóide para se torna ativa(SIM). Para desativar a solenoide seixará em (NAO).</p>
+Logo abaixo é mostrada a opção de Habilitar a solenóide para se torna ativa(SIM). Para desativar a solenoide deixará em (NAO).</p>
 
 <p>Na segunda tela Controle de Umidade, estará disponivel o controle automatico de umidade que é parecido com o controle de gás. Figura 15</p>
 <h5>Por enquanto este controle não está atuando com propositos de funcionar no futuro.</h5>
