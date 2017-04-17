@@ -14,4 +14,4 @@
 
 <p>O dispositivo avaliador de CO2 fora adquirido nos Estados Unidos da América, através da empresa CO2 METER Inc. A Figura 1 demonstra o sensor para avaliação de concentração de dióxido de carbono tipo COZIR Wide Range 5-100% CO2 Sensor, com faixa de avaliação entre 0% e 100%, e funcionamento em 20Hz.</p>
 
-<img src="//cdn.shopify.com/s/files/1/0019/5952/products/COZIR-Wide-Range-CO2-Sensor_large.jpg?v=1437578576" alt="COZIR Wide Range 5-100% CO2 Sensor">
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/unnamed.jpg" alt="COZIR Wide Range 5-100% CO2 Sensor">
