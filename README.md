@@ -18,7 +18,7 @@
 
 Figura 01: Sensor de avaliação de concentração de CO2.
 
-<p>Para mensuração de Humidade e temperatura, fora usado o sensor DHT11 mostrado na figura 2.</p>
+<p>Para mensuração de umidade e temperatura, fora usado o sensor DHT11 mostrado na figura 2.</p>
 
 <img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/DHT11.jpg" alt="DHT11">
 
