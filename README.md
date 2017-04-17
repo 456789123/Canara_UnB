@@ -40,3 +40,5 @@ Figura 04: Display 16x4.
 <p>Para controle da solenoide está sendo usado um fotoacoplador optoacoplador MOC3021 associado com o TRIAC BTA26 600Volts por 26 Amperes.</p>
 <p>O circuito de acoplamento está sendo mostrado na figura 05.</p>
 <img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/foto_triac.gif" alt="Circuito optoacoplador">
+
+Figura 05: Circuito optoacoplador.
