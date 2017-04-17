@@ -61,3 +61,9 @@ Figuras 08. Esquemário do circuito de controle.
 
 <h3>Configuração de Menu</h3>
 
+<p>Aqui é mostrada a tela principal que mostra a concentração de Gás, temperatura e umidade no interior da câmara. Figura 09</p>
+
+
+Figura 09. Tela principal.
+<p>Ao aperta o botão de Menu entrará nas configurações de parâmetros.</p>
+<p>Os botões UP e DOW são para navegação do MENU. As três telas estão disponíveis assim que perscionado o botão MENU conforme as figuras de 10 a 13.</p>
