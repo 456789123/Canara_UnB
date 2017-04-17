@@ -50,4 +50,8 @@ Figura 05: Circuito optoacoplador.
 
 Figuras 06 e 07: TRIAC BTA26 e o optoacoplador MOC3021.
 
+<p>Na figura 08 pode visualizar o esquema do circuito do controle da câmara</p>
 
+
+
+Figuras 08. Esquemário do circuito de controle.
