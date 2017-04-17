@@ -42,3 +42,8 @@ Figura 04: Display 16x4.
 <img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/foto_triac.gif" alt="Circuito optoacoplador">
 
 Figura 05: Circuito optoacoplador.
+
+<p>Abaixo é mostrado o TRIAC BTA26 junto com o MOC3021</p>
+
+
+Figura 06: TRIAC BTA26 e o optoacoplador MOC3021.
