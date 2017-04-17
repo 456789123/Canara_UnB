@@ -32,7 +32,10 @@ Figura 02: Sensor DHT11.
 
 Figura 03: Plataforma Arduino Uno.
 
-<p>Para visualização de dados e configurações de sistema fora usado um display LCD 16x2 como mostrada na figura 04.</p>
+<p>Para visualização de dados e configurações de sistema fora usado um display LCD 16x2 como mostrado na figura 04.</p>
+<img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/display.jpg" alt="Display 16x4">
 
+Figura 04: Display 16x4.
 
-
+<p>Para controle da solenoide está sendo usado um fotoacoplador optoacoplador MOC3021 associado com o TRIAC BTA26 600Volts por 26 Amperes.</p>
+<p>O circuito de acoplamento está sendo mostrado na figura 05.</p>
