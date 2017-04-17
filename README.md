@@ -29,3 +29,10 @@ Figura 02: Sensor DHT11.
 
 <p>Para o controle de todo o protótipo fora usado a plataforma Arduino Uno conforme a figura 03:</p>
 <img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Arduino_Uno.jpg" alt="Arduino Uno">
+
+Figura 03: Plataforma Arduino Uno.
+
+<p>Para visualização de dados e configurações de sistema fora usado um display LCD 16x2 como mostrada na figura 04.</p>
+
+
+
