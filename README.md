@@ -50,10 +50,14 @@ Figura 05: Circuito optoacoplador.
 
 Figuras 06 e 07: TRIAC BTA26 e o optoacoplador MOC3021.
 
-<p>Na figura 08 pode visualizar o esquema do circuito do controle da câmara</p>
+<p>Na figura 08 pode visualizar o esquema do circuito do controle da câmara.</p>
 
 <img src="https://github.com/456789123/Carbonization_Campaign/blob/master/Fotos/Esquema_Controle.png" alt="Esquema do circuito de controle">
 
 Figuras 08. Esquemário do circuito de controle.
 
-<p>Para o sensor COZIR GC-0016 (0-100%) será acoplado nos pino 19 para RX e 18 para RX com BAUDRATE de 9600 Bauds para leitura de Gás CO².</p>
+<p>Para o sensor COZIR GC-0016 (0-100%) será acoplado nos pino 19 para RX e 18 para RX com BAUDRATE de 9600 Bauds para leitura de Gás CO² padrão do fabricante.</p>
+
+
+<h3>Configuração de Menu</h3>
+
